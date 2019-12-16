@@ -1,0 +1,15 @@
+<style>
+    *{font-size:0}
+    .hello{display: inline-block;text-align:center} 
+    .alignLeft{text-align:left} 
+    .alignRight{text-align:right}
+    </style>
+    {{~it:v:i}}<div class="main" style="page-break-after:always; position: relative; height: 30mm; font-size:12px">
+      <div class="hello" style="position:absolute;top:2%;left:60%;width:30%; height:10%; font-size:80%">齐货网络</div>
+      <div class="hello alignRight" style="position:absolute;top:15%;left:3%;width:27%; height:25%; font-size:140%">货号:</div>
+      <div class="hello alignLeft" style="position:absolute;top:15%;left:30%;width:70%; height:15%; font-size:140%; font-weight:bold">{{=v.productCode}}</div>
+      <div class="hello alignRight" style="position:absolute;top:33%;left:3%;width:27%; height:15%; font-size:80%">档口名称:</div>
+      <div class="hello alignLeft" style="position:absolute;top:33%;left:30%;width:70%; height:15%; font-size:80%">{{=v.stallName}}</div>
+      <img  style="position:absolute;top:51%;left:15%;width:39%; height:30%" src="{{=v.url}}" />
+      <div class="hello" style="position:absolute;top:84%;left:0%;width:100%; height:15%; font-size:100%">{{=v.id}}</div>
+    </div>{{~}}' 

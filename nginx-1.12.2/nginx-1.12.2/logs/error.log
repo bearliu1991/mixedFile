@@ -1,0 +1,60 @@
+2019/07/22 15:50:03 [notice] 6740#10840: signal process started
+2019/07/22 15:50:03 [error] 6740#10840: CreateFile() "C:\Users\bearliu\Desktop\nginx-1.12.2\nginx-1.12.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2019/07/22 15:54:23 [notice] 16308#15272: signal process started
+2019/07/22 15:54:23 [error] 16308#15272: CreateFile() "C:\Users\bearliu\Desktop\nginx-1.12.2\nginx-1.12.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2019/07/22 15:58:18 [emerg] 13764#1656: CreateDirectory() "C:\Users\bearliu\Desktop\nginx-1.12.2\nginx-1.12.2/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2019/07/22 16:00:10 [notice] 8800#8928: signal process started
+2019/07/22 16:00:10 [error] 8800#8928: invalid PID number "" in "C:\Users\bearliu\Desktop\nginx-1.12.2\nginx-1.12.2/logs/nginx.pid"
+2019/07/22 16:01:36 [notice] 8420#4508: signal process started
+2019/07/22 16:01:36 [error] 8420#4508: invalid PID number "" in "C:\Users\bearliu\Desktop\nginx-1.12.2\nginx-1.12.2/logs/nginx.pid"
+2019/07/22 16:02:42 [emerg] 8364#3384: CreateFile() "C:/etc/nginx/nginx.conf" failed (3: The system cannot find the path specified)
+2019/07/22 16:03:02 [emerg] 16772#3692: CreateFile() "C:/nginx/nginx.conf" failed (3: The system cannot find the path specified)
+2019/07/22 16:03:15 [emerg] 2592#3280: CreateFile() "C:\Users\bearliu\Desktop\nginx-1.12.2\nginx-1.12.2/nginx/nginx.conf" failed (3: The system cannot find the path specified)
+2019/07/22 16:03:54 [notice] 7040#16568: signal process started
+2019/07/22 16:03:54 [error] 7040#16568: invalid PID number "" in "C:\Users\bearliu\Desktop\nginx-1.12.2\nginx-1.12.2/logs/nginx.pid"
+2019/07/22 16:04:10 [notice] 6848#16600: signal process started
+2019/07/22 16:04:10 [error] 6848#16600: CreateFile() "C:\Users\bearliu\Desktop\nginx-1.12.2\nginx-1.12.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2019/07/22 16:06:05 [emerg] 12456#6164: CreateFile() "C:/usr/local/nginx/conf/nginx.conf" failed (3: The system cannot find the path specified)
+2019/07/22 16:09:52 [error] 15544#8748: *1 CreateFile() "C:\Users\bearliu\Desktop\nginx-1.12.2\nginx-1.12.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8888", referrer: "http://localhost:8888/"
+2019/07/22 16:27:13 [notice] 15272#13388: signal process started
+2019/07/22 16:28:59 [notice] 10164#15252: signal process started
+2019/07/22 16:29:44 [notice] 8836#16612: signal process started
+2019/07/22 16:32:36 [notice] 13788#16068: signal process started
+2019/07/22 16:32:36 [error] 13788#16068: invalid PID number "" in "C:\Users\bearliu\Desktop\nginx-1.12.2\nginx-1.12.2/logs/nginx.pid"
+2019/07/22 16:32:53 [notice] 1996#5992: signal process started
+2019/07/22 16:32:53 [error] 1996#5992: invalid PID number "" in "C:\Users\bearliu\Desktop\nginx-1.12.2\nginx-1.12.2/logs/nginx.pid"
+2019/07/22 16:33:39 [notice] 10316#16644: signal process started
+2019/07/22 16:33:39 [error] 10316#16644: invalid PID number "" in "C:\Users\bearliu\Desktop\nginx-1.12.2\nginx-1.12.2/logs/nginx.pid"
+2019/07/22 16:36:21 [notice] 10740#15504: signal process started
+2019/07/22 16:39:48 [emerg] 5276#16864: unknown directive "stallManage/index" in C:\Users\bearliu\Desktop\nginx-1.12.2\nginx-1.12.2/conf/nginx.conf:45
+2019/07/22 16:40:30 [notice] 15504#16464: signal process started
+2019/07/22 16:40:39 [error] 15544#8748: *21 CreateFile() "C:\Users\bearliu\Desktop\nginx-1.12.2\nginx-1.12.2/html/index" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /index HTTP/1.1", host: "localhost:8888"
+2019/07/22 16:40:49 [error] 15544#8748: *21 CreateFile() "C:\Users\bearliu\Desktop\nginx-1.12.2\nginx-1.12.2/html/stallManage/index" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /stallManage/index HTTP/1.1", host: "localhost:8888"
+2019/07/22 16:45:30 [error] 15544#8748: *28 CreateFile() "C:\Users\bearliu\Desktop\nginx-1.12.2\nginx-1.12.2/html/stallManage/home/index" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /stallManage/home/index HTTP/1.1", host: "localhost:8888"
+2019/07/22 17:18:11 [notice] 18388#16796: signal process started
+2019/07/22 17:19:47 [notice] 6796#17516: signal process started
+2019/07/22 17:21:02 [emerg] 13268#16516: invalid number of arguments in "location" directive in C:\Users\bearliu\Desktop\nginx-1.12.2\nginx-1.12.2/conf/nginx.conf:52
+2019/07/22 17:21:23 [notice] 17780#18024: signal process started
+2019/07/22 17:21:34 [error] 15544#8748: *44 CreateFile() "C:\Users\bearliu\Desktop\nginx-1.12.2\nginx-1.12.2/html/index" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /index HTTP/1.1", host: "localhost:8888"
+2019/07/22 17:21:55 [error] 15544#8748: *47 CreateFile() "C:\Users\bearliu\Desktop\nginx-1.12.2\nginx-1.12.2/html/stallManage/login" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /stallManage/login HTTP/1.1", host: "localhost:8888"
+2019/07/22 17:27:03 [notice] 17740#8804: signal process started
+2019/07/22 17:27:08 [error] 15544#8748: *51 CreateFile() "C:\Users\bearliu\Desktop\nginx-1.12.2\nginx-1.12.2/html/stallManage/login" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /stallManage/login HTTP/1.1", host: "localhost:8888"
+2019/08/20 13:56:14 [emerg] 20836#14088: bind() to 0.0.0.0:8888 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2019/08/20 14:01:44 [error] 4792#9076: *1 CreateFile() "C:\Users\bearliu\Desktop\nginx-1.12.2\nginx-1.12.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8883", referrer: "http://localhost:8883/"
+2019/08/20 14:01:52 [error] 4792#9076: *1 "C:\Users\bearliu\Desktop\nginx-1.12.2\nginx-1.12.2/html/stallManage/stallManage/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /stallManage/ HTTP/1.1", host: "localhost:8883"
+2019/08/20 14:55:10 [error] 4792#9076: *19 CreateFile() "C:\Users\bearliu\Desktop\nginx-1.12.2\nginx-1.12.2/html/stallManage/static/iconfont/leovue.js" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /stallManage/static/iconfont/leovue.js HTTP/1.1", host: "localhost:8883", referrer: "http://localhost:8883/stallManage/index.html"
+2019/08/20 14:55:10 [error] 4792#9076: *19 CreateFile() "C:\Users\bearliu\Desktop\nginx-1.12.2\nginx-1.12.2/html/stallManage/static/iconfont/leovue.js" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /stallManage/static/iconfont/leovue.js HTTP/1.1", host: "localhost:8883", referrer: "http://localhost:8883/stallManage/index.html"
+2019/08/20 14:57:26 [error] 4792#9076: *25 CreateFile() "C:\Users\bearliu\Desktop\nginx-1.12.2\nginx-1.12.2/html/stallManage/static/iconfont/leovue.js" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /stallManage/static/iconfont/leovue.js HTTP/1.1", host: "localhost:8883", referrer: "http://localhost:8883/stallManage/index.html"
+2019/08/20 14:57:27 [error] 4792#9076: *25 CreateFile() "C:\Users\bearliu\Desktop\nginx-1.12.2\nginx-1.12.2/html/stallManage/static/iconfont/leovue.js" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /stallManage/static/iconfont/leovue.js HTTP/1.1", host: "localhost:8883", referrer: "http://localhost:8883/stallManage/index.html"
+2019/08/20 14:58:58 [error] 4792#9076: *31 CreateFile() "C:\Users\bearliu\Desktop\nginx-1.12.2\nginx-1.12.2/html/stallManage/static/iconfont/leovue.js" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /stallManage/static/iconfont/leovue.js HTTP/1.1", host: "localhost:8883", referrer: "http://localhost:8883/stallManage/index.html"
+2019/08/20 14:58:58 [error] 4792#9076: *31 CreateFile() "C:\Users\bearliu\Desktop\nginx-1.12.2\nginx-1.12.2/html/stallManage/static/iconfont/leovue.js" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /stallManage/static/iconfont/leovue.js HTTP/1.1", host: "localhost:8883", referrer: "http://localhost:8883/stallManage/index.html"
+2019/08/21 14:47:25 [error] 4792#9076: *35 "C:\Users\bearliu\Desktop\nginx-1.12.2\nginx-1.12.2/html/stallManage/stallManage/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /stallManage/ HTTP/1.1", host: "localhost:8883"
+2019/08/21 14:47:36 [error] 4792#9076: *35 "C:\Users\bearliu\Desktop\nginx-1.12.2\nginx-1.12.2/html/stallManage/stallManage/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /stallManage/ HTTP/1.1", host: "localhost:8883"
+2019/08/21 14:47:40 [error] 4792#9076: *35 CreateFile() "C:\Users\bearliu\Desktop\nginx-1.12.2\nginx-1.12.2/html/stallManage/login" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /stallManage/login HTTP/1.1", host: "localhost:8883"
+2019/08/21 14:47:46 [error] 4792#9076: *35 "C:\Users\bearliu\Desktop\nginx-1.12.2\nginx-1.12.2/html/stallManage/stallManage/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /stallManage/ HTTP/1.1", host: "localhost:8883"
+2019/08/21 14:48:35 [error] 4792#9076: *40 CreateFile() "C:\Users\bearliu\Desktop\nginx-1.12.2\nginx-1.12.2/html/stallManage/static/js/leovue.js.map" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /stallManage/static/js/leovue.js.map HTTP/1.1", host: "localhost:8883"
+2019/08/21 14:48:39 [error] 4792#9076: *40 CreateFile() "C:\Users\bearliu\Desktop\nginx-1.12.2\nginx-1.12.2/html/stallManage/static/js/leovue.js.map" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /stallManage/static/js/leovue.js.map HTTP/1.1", host: "localhost:8883"
+2019/08/21 14:48:44 [error] 4792#9076: *40 CreateFile() "C:\Users\bearliu\Desktop\nginx-1.12.2\nginx-1.12.2/html/stallManage/login" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /stallManage/login HTTP/1.1", host: "localhost:8883", referrer: "http://localhost:8883/stallManage/index.html"
+2019/08/21 14:48:54 [error] 4792#9076: *43 CreateFile() "C:\Users\bearliu\Desktop\nginx-1.12.2\nginx-1.12.2/html/stallManage/static/js/leovue.js.map" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /stallManage/static/js/leovue.js.map HTTP/1.1", host: "localhost:8883"
+2019/11/06 16:29:31 [error] 19496#10088: *1 CreateFile() "C:\Users\bearliu\Desktop\nginx-1.12.2\nginx-1.12.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8883", referrer: "http://localhost:8883/"
+2019/11/06 16:29:49 [error] 19496#10088: *1 "C:\Users\bearliu\Desktop\nginx-1.12.2\nginx-1.12.2/html/stallManage/stallManage/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /stallManage/ HTTP/1.1", host: "localhost:8883"

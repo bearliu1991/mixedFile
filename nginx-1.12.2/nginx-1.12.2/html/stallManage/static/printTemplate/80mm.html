@@ -1,0 +1,32 @@
+<style>
+    .label { font-weight: bold; margin:8px 0}
+    .label:after { content: '：'; }
+    .main { font-size: 14px; position: relative}
+    .main:before{display:table;content:''}
+    hr { border: 0; height:0 }
+    .company_name{position:absolute;font-size:10px; text-align:center;margin:4px 0;right:10px;top:5px}
+    div, span, img, hr {
+      padding:0;
+      margin:0;
+    }
+  </style>
+  
+  <!-- style="height：300px;page-break-after:always" -->
+  <!-- <hr> -->
+  {{~it:v:i}}<div class="main" style="page-break-after:always;">
+    <div class="company_name" style="">齐货网络</div>
+    <div style="text-align:center; font-size:16px;margin-bottom:8px;margin-top:10px">
+      <span class="label">货号</span>
+      <span class="content" style="font-size:18px">{{=v.productCode}}</span>
+    </div>
+    <div style="text-align:center;margin-bottom:8px">
+      <span class="label">档口名称</span>
+      <span class="content">{{=v.stallName}}</span>
+    </div>
+    <div style="text-align:center">
+      <!-- <span class="label">网址</span> -->
+      <img width="200" height="30" src="{{=v.url}}" />
+      <div class="content">{{=v.id}}</div>
+    </div>
+    <hr>
+  </div>{{~}}
