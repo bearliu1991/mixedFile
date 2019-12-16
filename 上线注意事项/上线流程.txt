@@ -1,0 +1,5 @@
+1. 图片上传js源码需要改动
+2. 检查html中各资源加载路径
+3. pc_merge\node_modules\element-ui\lib\element-ui.common.js
+4. 检查menu tree, 删减及所属系统是否正确
+5. 给客户刷新新版本的最快方式是禁止选择discache, 更新完以后需要取消选择，充分利用缓存
